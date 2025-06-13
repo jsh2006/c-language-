@@ -1,4 +1,3 @@
-# c.md
 #include <GL/freeglut.h>
 
 float angle = 0.0f;
